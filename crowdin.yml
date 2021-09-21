@@ -1,0 +1,3 @@
+files:
+  - source: /Crowdium/assets/**/*.*
+    translation: /Crowdium/assets/**/%locale_with_underscore%.json
