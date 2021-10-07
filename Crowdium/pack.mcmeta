@@ -2,5 +2,11 @@
 	"pack": {
 		"pack_format": 5,
 		"description": "Crowdin translation pack for sodium!"
-	}
+	},
+	"language": {
+    "ed_ed": {
+      "name": "Eddy",
+      "region": "Uniteded Stated",
+      "bidirectional": false
+    }
 }
