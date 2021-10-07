@@ -8,5 +8,11 @@
       "name": "Eddy",
       "region": "Uniteded Stated",
       "bidirectional": false
+    },
+	"language": {
+    "en_doglol": {
+      "name": "LOLDOG",
+      "region": "Unite Dstate s",
+      "bidirectional": false
     }
 }
