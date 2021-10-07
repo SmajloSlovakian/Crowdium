@@ -8,7 +8,7 @@ You need to create an account on Crowdin, then you can translate in this link: h
 just search up your language, pick it and pin the web
 
 # How to download and use translations
-Click on a green "code" button and click on "download zip". Open downloaded zip file, extract it, open Minecraft, settings, resourcepacks and drag and drop the file you extracted to the Minecraft window.
+Click on a green "code" button and click on "download zip". Open downloaded zip file, open the folder inside, extract folder inside this folder, open Minecraft, settings, resourcepacks and drag and drop the file you extracted to the Minecraft window.
 
 # But it doesn't work! (or i can't make minecraft a window)
 Inside Minecraft, you can click on a button "Resourcepack folder" and put the extracted file into the window which has just opened.
