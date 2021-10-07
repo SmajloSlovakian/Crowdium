@@ -2,17 +2,5 @@
 	"pack": {
 		"pack_format": 5,
 		"description": "Crowdin translation pack for sodium!"
-	},
-	"language": {
-    "ed_ed": {
-      "name": "Eddy",
-      "region": "Uniteded Stated",
-      "bidirectional": false
-    },
-	"language": {
-    "en_doglol": {
-      "name": "LOLDOG",
-      "region": "Unite Dstate s",
-      "bidirectional": false
-    }
+	}
 }
