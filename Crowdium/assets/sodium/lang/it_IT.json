@@ -50,7 +50,7 @@
   "sodium.options.chunk_memory_allocator.name": "Chunk Memory Allocator",
   "sodium.options.chunk_memory_allocator.tooltip": "Selects the memory allocator that will be used for chunk rendering.\n- ASYNC: Fastest option, works well with most modern graphics drivers.\n- SWAP: Fallback option for older graphics drivers. May increase memory usage significantly.",
   "sodium.options.buttons.undo": "Undo",
-  "sodium.options.buttons.apply": "Apply",
-  "sodium.options.buttons.close": "Close",
+  "sodium.options.buttons.apply": "Застосувати",
+  "sodium.options.buttons.close": "Закрити",
   "sodium.options.buttons.donate": "Buy us a coffee!"
 }
